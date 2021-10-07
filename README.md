@@ -7,6 +7,6 @@ eslint规范
     extends: ["@ezbuy/eslint-config"],
   }
 ```
-
+[eslint-config](https://github.com/soarbamboo/eslint-config)
 推荐使用 yarn  || npm 
 请勿使用淘宝源，因部分依赖淘宝源install会报错，
