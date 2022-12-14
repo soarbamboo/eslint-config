@@ -4,7 +4,7 @@ eslint规范
 项目内引用
 ```
   {
-    extends: ["@ezbuy/eslint-config"],
+    extends: ["@bamboos/eslint-config"],
   }
 ```
 [eslint-config](https://github.com/soarbamboo/eslint-config)
